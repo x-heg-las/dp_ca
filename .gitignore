@@ -1,0 +1,10 @@
+# Environments 
+.env 
+.venv 
+env/ 
+cvenv/ 
+ENV/ 
+env.bak/ 
+cavenv.bak/ 
+
+.DS_Store
